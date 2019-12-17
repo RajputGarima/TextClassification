@@ -10,6 +10,7 @@ import sys
 # from sklearn.utils.multiclass import unique_labels
 # nltk.download('punkt')
 
+
 file = sys.argv[1]
 file_test = sys.argv[2]
 mode = sys.argv[3]
