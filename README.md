@@ -1,5 +1,5 @@
 # TextClassification
-### Abstract: 
+**Abstract:** <br /> 
 Given a user review(in text), predict the stars(1-5) given by the reviewer.
 
 [Yelp Dataset](https://www.yelp.com/dataset) <br/>
