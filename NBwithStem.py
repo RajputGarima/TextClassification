@@ -78,7 +78,6 @@ for ctr in term_freq.values():
 
 vocab_size = len(vocab)
 
-
 def predict_stars(text):
     p = count.keys()
     prob_all_class = np.zeros(len(p))
